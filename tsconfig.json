@@ -4,6 +4,7 @@
     "outDir": "./dist", // new
     "allowJs": false,
     "baseUrl": "./",
+    "sourceMap": true ,
     "allowSyntheticDefaultImports": true,
     "emitDecoratorMetadata": true,
     "esModuleInterop": true,
